@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481937109 source:/media/nasrallah/main1/FCI/c++/technoship file project/main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
